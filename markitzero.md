@@ -1,6 +1,8 @@
 ## Overview 
 Generall speaking these are the Network ranges we use:<br />
-VM Network (10.98.x.x) | VM DR Network (10.198.1.x)
+| VM Network    | (10.98.x.x)  |
+|---------------|--------------|
+| VM DR Network | (10.198.1.x) |
 
 1. Create [DNS](https://confluence.ta.com/pages/viewpage.action?pageId=37163265) entries
 1. Go to [VMware](https://vchq1.ta.com)
